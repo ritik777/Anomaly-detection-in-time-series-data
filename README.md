@@ -1,7 +1,7 @@
 # Anomaly-detection-in-time-series-data
 
 # Description
-This is a jupyter notebook for the anomaly detection project of equipment failure using machine learning best practices on time series data. 
+This is a jupyter notebook for the anomaly detection project of equipment failure using machine learning best practices on time series data. (kaggle case study)
 
 # Approach 
 Cleaned the data
